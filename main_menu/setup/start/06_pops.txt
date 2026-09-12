@@ -167,7 +167,7 @@ nykoping = {
 	}
 	define_pop = {
 		type = peasants
-		size = 0.192
+		size = 4.192
 		culture = nordic
 		religion = norse
 	}
@@ -235,7 +235,7 @@ sodertalje = {
 	}
 	define_pop = {
 		type = peasants
-		size = 1
+		size = 5
 		culture = nordic
 		religion = norse
 	}

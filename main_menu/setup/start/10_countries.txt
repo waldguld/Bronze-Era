@@ -11754,7 +11754,7 @@ countries = {
 			arboga      enkoping    oppunda     sodertalje  stockholm   strangnas
 			vasteras
 		}
-		capital = enkoping
+		capital = stockholm
 		include = "bronze_nordic_age"
 		government = {
 			ruler = random
