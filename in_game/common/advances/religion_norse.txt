@@ -3,7 +3,7 @@
 new_settlements = { 
     age = age_1_traditions
 
-    potential = { religion.group = religion_group:norse}
+    potential = norse
 
     can_colonize = yes
 
