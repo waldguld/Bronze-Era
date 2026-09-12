@@ -1,0 +1,11 @@
+#age 1 traditions "bronze age"
+
+new_settlements = { 
+    age = age_1_traditions
+
+    potential = { religion.group = religion_group:norse}
+
+    can_colonize = yes
+
+    requires = horse_domestication_advance
+}
